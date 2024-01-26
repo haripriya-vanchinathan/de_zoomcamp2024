@@ -1,3 +1,3 @@
 *.json
 *.csv
-*.terraform
+/workspaces/de_zoomcamp2024/1_terraform_gcp/.terraform
